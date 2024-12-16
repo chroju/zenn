@@ -1,0 +1,25 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chroju/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chroju/zenn/issues"
+  },
+  "homepage": "https://github.com/chroju/zenn#readme",
+  "dependencies": {
+    "textlint": "^14.4.0",
+    "textlint-rule-ja-simple-user-dictionary": "^1.0.1",
+    "zenn-cli": "^0.1.154"
+  }
+}
