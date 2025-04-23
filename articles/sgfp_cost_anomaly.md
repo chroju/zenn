@@ -2,7 +2,7 @@
 title: "Security Group for Podsを導入したらAWS Configの料金が4倍以上になった話"
 emoji: "💸"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["AWS"]
+topics: ["AWS", "Kubernetes", "EKS", "Devin", "Cursor"]
 published: true
 publication_name: "globis"
 ---
