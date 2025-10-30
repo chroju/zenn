@@ -1,5 +1,5 @@
 ---
-title: "AWS Healthからの通知をSlack上でイイ感じに確認する"
+title: "AWS Healthからの通知をAIに要約させて、Slack上でイイ感じに確認する"
 emoji: "🔔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "Zapier"]
