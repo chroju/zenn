@@ -93,3 +93,7 @@ https://www.hanmoto.com/bd/isbn/9784334103804
 https://www.hanmoto.com/bd/isbn/9784065243275
 
 書きたい、あるいは書かねばならない、けど書けない、という悩みについてプロのライターたちが語り合っている本です。実践的な部分もありつつ、タイトル通り観念的な内容も多い本ではありますが、「書くこと」をどう捉えるか、という読み物として面白いです。
+
+---
+
+この記事は、[GLOBIS Advent Calendar 2025](https://qiita.com/advent-calendar/2025/globis) シリーズ1 13日目の記事でした。
