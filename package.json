@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/chroju/zenn#readme",
   "dependencies": {
-    "textlint": "^14.4.0",
+    "textlint": "^15.7.1",
     "textlint-rule-ja-simple-user-dictionary": "^1.0.1",
     "zenn-cli": "^0.1.154"
   }
